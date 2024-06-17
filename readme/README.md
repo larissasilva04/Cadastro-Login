@@ -1,9 +1,7 @@
 # 1. Página de Cadastro
+![preview](https://github.com/larissasilva04/Cadastro-Login/assets/165943319/cde3a18a-9621-4cee-86b4-403240dbf6ee)
 
-<p align="center">
-  <img alt="Imagem do projeto" src=".github/preview.png" width="100%">
-</p>
-	
+
 ## Tecnologias para usar no projeto:
 
 <div align="center">
